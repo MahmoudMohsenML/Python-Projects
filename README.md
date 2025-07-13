@@ -1,2 +1,11 @@
-# Python-Projects
-A collection of small Python projects for practice and learning, including games like Tic Tac Toe and Guess the Number. Each project is structured and documented separately. More projects will be added as I continue learning.
+# Python Projects 🐍
+
+This repository contains small Python projects for learning and practice.  
+Each project is organized in its own directory and has its own README file.
+
+## Projects
+
+- **Guessing Game**: A simple game where the player guesses a number.
+- **X-O Game**: Classic Tic Tac Toe game implemented in Python.
+
+More projects will be added soon as I continue learning.
